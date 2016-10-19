@@ -1,4 +1,4 @@
-# Algoritma DES
+# Algoritma DES Tugas Kriptografi
 
 Contoh Input :
 
@@ -10,4 +10,5 @@ Keterangan lebih lanjut ada pada sourcecode
 
 Kelompok 10(Ketua Kelompok Ekki Rinaldi) : Muhammad Nadhif Aswan
 Mencari Materi 
-- 
+- http://page.math.tu-berlin.de/~kant/teaching/hess/krypto-ws2006/des.htm
+- https://www.lri.fr/~fmartignon/documenti/systemesecurite/4-DES.pdf
